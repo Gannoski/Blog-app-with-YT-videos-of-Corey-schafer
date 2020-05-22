@@ -1,0 +1,4 @@
+This project is for a blog app that allows multiple users.
+The following were installed:
+    pillow
+    crispy-forms
